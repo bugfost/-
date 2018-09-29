@@ -1,0 +1,4 @@
+my name is czc
+this is my first time to use git
+i want to learn it well
+
